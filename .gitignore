@@ -1,0 +1,10 @@
+.my/
+.vscode/
+__pycache__/
+migrations/*
+static/
+media/
+
+*.pyc
+.env
+.pylintrc
